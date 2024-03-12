@@ -1,0 +1,7 @@
+@import "reset.css";
+@import "Maker.css";
+/* @import "gameUrl.css"; */
+
+:root {
+  --box-color: #f6f6f6;
+}
