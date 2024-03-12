@@ -1,4 +1,5 @@
 Word Search 게임 개발 ( Python의 fast API, SQLite 사용 )
+
 필수 기능
 1. 게임 제작 기능
 2. word search 게임 기능
